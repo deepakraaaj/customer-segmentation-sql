@@ -1,0 +1,5 @@
+segment,customers,median_recency_days,median_frequency,median_monetary,total_revenue,customer_share_pct,revenue_share_pct,action
+Champions,1191,17.0,13.0,4890.1,12547595.5,20.4,73.5,"Reward and retain: VIP/loyalty perks, early access to new ranges, referral incentives. Do not over-discount."
+At Risk,1447,185.0,4.0,1450.0,2847791.4,24.7,16.7,Win-back now: personalised 'we miss you' campaign with a meaningful offer; high past value justifies spend.
+New / Promising,1260,24.0,3.0,716.5,1055624.9,21.5,6.2,Onboarding journey: welcome series and a time-limited offer on the next order to build the buying habit.
+Hibernating,1954,402.0,1.0,273.3,617556.3,33.4,3.6,Low-cost automated reactivation only; suppress from expensive channels.

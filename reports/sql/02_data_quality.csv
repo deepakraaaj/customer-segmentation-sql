@@ -1,0 +1,9 @@
+check_name,n_rows
+raw rows,1067371
+cancelled invoices,19494
+quantity <= 0,22950
+price <= 0,6207
+missing customer_id,243007
+non-product stock code,6093
+exact duplicate rows,34335
+clean rows,776577

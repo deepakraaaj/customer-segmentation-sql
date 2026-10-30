@@ -1,0 +1,11 @@
+country,customers,revenue,revenue_share_pct,cumulative_share_pct
+United Kingdom,5334,14288758.75,83.71,83.71
+EIRE,3,586626.08,3.44,87.15
+Netherlands,22,549773.41,3.22,90.37
+Germany,107,383289.0,2.25,92.62
+France,93,309403.16,1.81,94.43
+Australia,15,167800.01,0.98,95.41
+Spain,38,97766.75,0.57,95.99
+Switzerland,22,93400.94,0.55,96.53
+Sweden,19,86045.14,0.5,97.04
+Denmark,12,67422.69,0.4,97.43
